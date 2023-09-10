@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace PDC60Module02.Model
+{
+    class student
+    {
+        public string SubjectCode { get; set; }
+        public string SubjectTitle { get; set; } 
+        public int Unit { get; set; }
+
+    }
+}
